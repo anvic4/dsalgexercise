@@ -85,9 +85,9 @@ public class StoreQ {
 					//set the done flag to true to exit the loop
 					done = true;
 					break;
-					default:
-						//print message if an invalid command was entered
-						System.out.println("Invalid command.");
+				default:
+					//print message if an invalid command was entered
+					System.out.println("Invalid command.");
 						}
 				}
 			}
